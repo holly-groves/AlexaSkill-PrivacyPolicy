@@ -1,4 +1,4 @@
-# AlexaSkillProvacyPolicy
+# AlexaSkillPrivacyPolicy
 Privacy Policy
 
 The data collected:
